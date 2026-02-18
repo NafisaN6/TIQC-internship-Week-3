@@ -1,4 +1,4 @@
-# Database Dashboard Project
+# TIQC Week 3
 
 ## Project Overview
 This project shows how the same dataset can be stored and managed using both SQL and NoSQL databases.
@@ -8,21 +8,14 @@ This project shows how the same dataset can be stored and managed using both SQL
 ## Screenshots
 
 ### MySQL Data
-(Place your MySQL screenshot in the screenshots folder and name it mysql.png)
-
 <img src="Screenshot 2026-02-18 161354.png" width="300" height="200">
 
 ### MongoDB Data
-(Place your MongoDB screenshot in the screenshots folder and name it mongodb.png)
-
 <img src="Screenshot 2026-02-18 161955.png" width="300" height="200">
 
 ### Dashboard UI
-(Place your dashboard screenshot in the screenshots folder and name it dashboard.png)
+<img src="Screenshot 2026-02-18 163522.png" width="300" height="200">
 
-![Dashboard Screenshot](screenshots/dashboard.png)
-
----
 
 ## Why I Chose My Data Structure
 I used SQL tables because it is good for structured data with fixed fields such as name, email, and department. 
