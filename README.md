@@ -48,4 +48,4 @@ NoSQL felt more efficient to me when inserting and modifying data as it does not
 ## How To Run Locally
 
 1. Download or clone this repository  
-2. Open `dashboard.html` in a web browser  
+2. Open `index.html` in a web browser  
