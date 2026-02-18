@@ -10,7 +10,7 @@ This project shows how the same dataset can be stored and managed using both SQL
 ### MySQL Data
 (Place your MySQL screenshot in the screenshots folder and name it mysql.png)
 
-![MySQL Screenshot](screenshots/mysql.png)
+![MySQL Screenshot](Screenshot 2026-02-18 161354.png)
 
 ---
 
