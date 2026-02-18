@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Intern Dashboard</title>
+</head>
+<body>
+
+<h1>Intern Dashboard</h1>
+
+<button onclick="loadData()">Load Intern Data</button>
+
+<pre id="output"></pre>
+
+<script>
+function loadData() {
+  const data = [
+    { name: "Alex Kim", email: "alex@email.com", department: "Engineering" },
+    { name: "Jordan Lee", email: "jordan@email.com", department: "Design" },
+    { name: "Taylor Smith", email: "taylor@email.com", department: "Marketing" }
+  ];
+
+  document.getElementById("output").textContent =
+    JSON.stringify(data, null, 2);
+}
+</script>
+
+</body>
+</html>
