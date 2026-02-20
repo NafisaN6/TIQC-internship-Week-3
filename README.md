@@ -18,7 +18,7 @@ This project shows how the same dataset can be stored using both SQL and MongoDB
 
 
 ## Why I Chose My Data Structure
-I used SQL tables because it is good for structured data. 
+I used SQL tables because it is good for structured data, which I found more useful. 
 
 ---
 
